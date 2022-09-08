@@ -1,0 +1,6 @@
+ramya@sip.com|127.0.0.1
+kohima@sip.com|127.0.0.1
+jeya@sip.com|127.0.0.1
+abc@sip.com|127.0.0.1
+nagaveni@sip.com|127.0.0.1
+kasthuri@sip.com|127.0.0.4
